@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Local vector DB
+data/vectorstore/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
