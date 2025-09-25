@@ -12,9 +12,9 @@ cp .env.example .env  # fill in keys
 uvicorn app.main:app --reload --port 8000
 
 # Salesforce (read-only)
-SF_INSTANCE_URL=https://your-instance.my.salesforce.com
-SF_USERNAME=
-SF_PASSWORD=
+SF_INSTANCE_URL=eco-battery.my.salesforce.com
+SF_USERNAME=warranty@ecobattery.com
+SF_PASSWORD=Thunderst1!
 SF_SECURITY_TOKEN=
 
 # Vector DB
