@@ -12,3 +12,6 @@ pandas
 unstructured
 pdfminer.six
 beautifulsoup4
+langchain-community
+langchain-text-splitters
+
